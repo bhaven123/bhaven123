@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhaven Naik (@bhaven123)
-- 👀 I’m interested in Web Development (MERN stack), Cloud, Data Science, Machine Learning and Deep Learning
-- 🌱 I’m currently learning about Generalized Adversarial Networks and MERN stack.
-- 💞️ I'm looking for intership opportunities as a Software Developer. I’m also looking to collaborate on different types of projects. 
+- 👀 I’m interested in Web Development (MERN stack - Frontend or Backend), Cloud, Data Science, Machine Learning and Deep Learning.
+- 🌱 I’m currently learning about Generalized Adversarial Networks in Deep Learning and Reactjs in MERN stack.
+- 💞️ I'm looking for intership opportunities as a Software Developer. 
 - 📫 How to reach me - Email: naikbhaven11@gmail.com, Facebook: Bhaven Naik, Twitter/Instagram: bhaven_naik
 
 <!---
