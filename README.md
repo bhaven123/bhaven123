@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Bhaven Naik 
+<img src="https://github.com/bhaven123/bhaven123/blob/main/Software.png" alt="header" />
+
+# 👋 Hi, I’m Bhaven Naik
+
 > 👀 **I’m interested in Software Development (Frontend or Backend), React, Cloud, Data Science, Machine Learning and Deep Learning.**
 
 > 🌱 **I’m currently learning about Generalized Adversarial Networks in Deep Learning and React and the MERN stack.**
