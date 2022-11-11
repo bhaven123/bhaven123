@@ -2,11 +2,11 @@
 
 # 👋 Hi, I’m Bhaven Naik
 
-> 👀 **I’m interested in Software Development (Frontend or Backend), React, Cloud, Data Science, Machine Learning and Deep Learning.**
+- 👀 **I’m interested in Software Development (Frontend or Backend), React, Cloud, Data Science, Machine Learning and Deep Learning.**
 
-> 🌱 **I’m currently learning about Generalized Adversarial Networks in Deep Learning and React and the MERN stack.**
+- 🌱 **I’m currently learning about Generalized Adversarial Networks in Deep Learning and React and the MERN stack.**
 
-> 💞️ **I'm looking for full-time opportunities as a Software Developer.**
+- 💞️ **I'm looking for full-time opportunities as a Software Developer.**
 
 ## 📫 How to reach me - 
 <ul>
