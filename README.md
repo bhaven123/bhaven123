@@ -16,7 +16,7 @@
   </a>
   </li>
   <li> 
-    <a href="mailto:https://bhaven-naik.com/">
+    <a href="mailto:naikbhaven11@gmail.com">
     Email
   </a>
   </li>
