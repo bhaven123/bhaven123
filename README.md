@@ -17,17 +17,17 @@
   </li>
   <li> 
     <a href="mailto:naikbhaven11@gmail.com">
-    Email
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </li>
   <li>
    <a href="https://www.linkedin.com/in/bhaven-naik">
-     LinkedIn
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </li>
   <li>
    <a href="https://twitter.com/bhavennaik">
-     Twitter
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   </li>
 </ul>
@@ -57,8 +57,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhaven123&show_icons=true&theme=dracula" alt="Git Stats"/>
 </div>
-
-
+    
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaven123" alt="Profile Hits Counter"/>
+</div>
+    
+ <div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbhaven1231212%2Fhit-counter" alt="Profile Hits Counter"/>
+</div>
+   
 <!---
 bhaven123/bhaven123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
