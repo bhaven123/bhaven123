@@ -55,10 +55,6 @@
 </div>
     
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaven123&show_icons=true&theme=dracula" alt="Git Stats"/>
-</div>
-    
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaven123" alt="Profile Hits Counter"/>
 </div>
     
