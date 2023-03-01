@@ -2,11 +2,20 @@
 
 # 👋 Hi, I’m Bhaven Naik
 
-- 👀 **I’m interested in Software Development (Frontend => ReactJS or Backend => NodeJS, Python), Data Science, Machine Learning and Deep Learning, Cloud.**
+- As a Full Stack Engineer and Machine Learning enthusiast, I bring a unique blend of skills and experience to any project. With expertise in front-end and back-end technologies such as ReactJS, NodeJS, ExpressJS, MongoDB, and databases like PostgreSQL and MySQL, I am capable of designing and building scalable, responsive, and visually appealing applications. Additionally, my proficiency in machine learning frameworks such as TensorFlow, Keras, and Scikit-learn, coupled with a Master's in Applied Computer Science, enables me to develop intelligent systems that can analyze data, make predictions, and automate processes.
 
-- 🌱 **I’m currently developing Full-Stack applications in React and learning about Generalized Adversarial Networks in Deep Learning. I'm always open to learn new technologies and grow as a developer.**
+- Whether it's building a robust web application or developing a machine learning model, I am passionate about learning and delivering high-quality work that meets business requirements. If you're looking for a Full Stack Engineer with expertise in Machine Learning, feel free to connect with me.
 
-- 💞️ **I'm looking for full-time opportunities as a Software Developer to kickstart my professional career.**
+- I am very excited to kickstart my professional career. I am a self starter and a quick learner. Additionally, I am open to learning new things. Currently, I am working on building a Task Management App using ReactJS and on a cake-ordering application with frontend in ReactJS and backend using NodeJS and ExpressJS with database connection to MongoDB.
+
+- The Tech stack that I have been using:
+  <ul>
+      <li>Python</li>
+      <li>ReactJS</li>
+      <li>NodeJS</li>
+      <li>HTML</li>
+      <li>Bootstrap & CSS</li>
+  </ul>
 
 ## 📫 How to reach me - 
 <ul>
