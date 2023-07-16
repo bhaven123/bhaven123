@@ -6,15 +6,19 @@
 
 - Whether it's building a robust web application or developing a machine learning model, I am passionate about learning and delivering high-quality work that meets business requirements. If you're looking for a Full Stack Engineer with expertise in Machine Learning, feel free to connect with me.
 
-- I am very excited to kickstart my professional career. I am a self starter and a quick learner. Additionally, I am open to learning new things. Currently, I am working on building a Task Management App using ReactJS and on a cake-ordering application with frontend in ReactJS and backend using NodeJS and ExpressJS with database connection to MongoDB.
+- I am very excited to kickstart my professional career in Canada. I am a self-starter and a quick learner.
 
 - The Tech stack that I have been using:
   <ul>
       <li>Python</li>
-      <li>ReactJS</li>
-      <li>NodeJS</li>
-      <li>HTML</li>
-      <li>Bootstrap & CSS</li>
+      <li>PyTorch</li>
+      <li>Tensorflow</li>
+      <li>MongoDB</li>
+      <li>Express.js</li>
+      <li>React.js</li>
+      <li>Node.js</li>
+      <li>Redux</li>
+      <li>Material UI & Bootstrap</li>
   </ul>
 
 ## 📫 How to reach me - 
@@ -50,14 +54,16 @@
     <th>Back-End</th>
     <th>Database</th>
     <th>PaaS</th>
+    <th>Frameworks</th>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=python,c" alt="languages" /></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,react" alt="frontend" /></td>
-      <td><img src="https://skillicons.dev/icons?i=js,nodejs,python" alt="backend" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python,javascript,c" alt="languages" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css" alt="frontend" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,php" alt="backend" /></td>
       <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="database" /></td>
-      <td><img src="https://skillicons.dev/icons?i=aws" alt="paas" /></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,docker" alt="paas" /></td>
+      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="frameworks" /></td>
     </tr>
   </tbody>
 </table>
