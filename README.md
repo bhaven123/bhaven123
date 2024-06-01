@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Bhaven Naik
 
-I'm an AI Consultant at Lemay.ai passionate about transforming data into actionable insights and building robust AI solutions. My expertise spans MLOps, Solution Architecture, Data Science, and Exploratory Data Analysis (EDA).
+I'm an AI Consultant at Lemay.ai passionate about transforming data into actionable insights and building robust AI solutions. My expertise spans MLOps, Solution Architecture, Data Science, Machine Learning, Deep Learning, and Exploratory Data Analysis (EDA).
 
 🔧 Technologies & Tools I Work With:
 
