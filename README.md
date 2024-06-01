@@ -1,25 +1,33 @@
-<img src="https://github.com/bhaven123/bhaven123/blob/main/Software.png" alt="header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Welcome+to+my+Github+page+.+.+."/>
 
 # 👋 Hi, I’m Bhaven Naik
 
-- As a Full Stack Engineer and Machine Learning enthusiast, I bring a unique blend of skills and experience to any project. With expertise in front-end and back-end technologies such as ReactJS, NodeJS, ExpressJS, MongoDB, and databases like PostgreSQL and MySQL, I am capable of designing and building scalable, responsive, and visually appealing applications. Additionally, my proficiency in machine learning frameworks such as TensorFlow, Keras, and Scikit-learn, coupled with a Master's in Applied Computer Science, enables me to develop intelligent systems that can analyze data, make predictions, and automate processes.
+I'm an AI Consultant at Lemay.ai passionate about transforming data into actionable insights and building robust AI solutions. My expertise spans MLOps, Solution Architecture, Data Science, and Exploratory Data Analysis (EDA).
 
-- Whether it's building a robust web application or developing a machine learning model, I am passionate about learning and delivering high-quality work that meets business requirements. If you're looking for a Full Stack Engineer with expertise in Machine Learning, feel free to connect with me.
+🔧 Technologies & Tools I Work With:
 
-- I am very excited to kickstart my professional career in Canada. I am a self-starter and a quick learner.
+- Programming Languages: Python
+- Frameworks & Libraries: TensorFlow, PyTorch
+- Containerization & Orchestration: Docker, Kubernetes
+- Workflow & Automation: Airflow, MLflow
+- Streaming & Databases: Kafka, Neo4j, Elastic Search, Postgres, MongoDB, Redis, Vector Databases
+- Web Development: Flask, FastAPI, Angular, React, NextJS, Node.js
+- Infrastructure as Code: Terraform, Ansible
+- Operating Systems: Linux, MacOS and Windows
+- CI/CD: GitLab, Git
+- Cloud Services: AWS, Heroku
+- Web Servers: Nginx
+- Queue Management: Bull for Redis
+- API Testing: Postman
+- Machine Learning Tools & Techniques: Comprehensive expertise in all ML tools and techniques, including:
+  - Supervised
+  - Unsupervised Learning
+  - Deep Learning
+  - Reinforcement Learning
+  
+💡 I thrive on solving complex problems and delivering scalable, efficient solutions. Whether it's developing end-to-end machine learning pipelines or architecting cloud-based systems, I aim to drive innovation and excellence in every project.
 
-- The Tech stack that I have been using:
-  <ul>
-      <li>Python</li>
-      <li>PyTorch</li>
-      <li>Tensorflow</li>
-      <li>MongoDB</li>
-      <li>Express.js</li>
-      <li>React.js</li>
-      <li>Node.js</li>
-      <li>Redux</li>
-      <li>Material UI & Bootstrap</li>
-  </ul>
+🚀 Let's connect and collaborate on exciting AI and data science ventures!
 
 ## 📫 How to reach me - 
 <ul>
@@ -39,8 +47,8 @@
   </a>
   </li>
   <li>
-   <a href="https://twitter.com/bhavennaik">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+   <a href="https://x.com/bhavennaik">
+     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:bhavennaik">
   </a>
   </li>
 </ul>
@@ -52,18 +60,22 @@
     <th>Languages</th>
     <th>Front-End</th>
     <th>Back-End</th>
-    <th>Database</th>
+    <th>Streaming & Databases</th>
+    <th>MLOps</th>
     <th>PaaS</th>
     <th>Frameworks</th>
+    <th>OS</th>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=python,javascript,c" alt="languages" /></td>
-      <td><img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css" alt="frontend" /></td>
-      <td><img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,php" alt="backend" /></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="database" /></td>
-      <td><img src="https://skillicons.dev/icons?i=aws,docker" alt="paas" /></td>
+      <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,bootstrap,html,css" alt="frontend" /></td>
+      <td><img src="https://skillicons.dev/icons?i=python,flask,fastapi,nginx,nodejs,php" alt="backend" /></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres,MongoDB,kafka,elasticsearch,redis,mysql" alt="database" /></td>
+      <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,gitlab,terraform,ansible" alt="MLOps" /></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,heroku" alt="paas" /></td>
       <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="frameworks" /></td>
+      <td><img src="https://skillicons.dev/icons?i=linux,windows" alt="os" /></td>
     </tr>
   </tbody>
 </table>
